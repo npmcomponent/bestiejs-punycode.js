@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [bestiejs/punycode.js](http://github.com/bestiejs/punycode.js). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/bestiejs-punycode.js`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # Punycode.js [![Build status](https://travis-ci.org/bestiejs/punycode.js.svg?branch=master)](https://travis-ci.org/bestiejs/punycode.js) [![Dependency status](https://gemnasium.com/bestiejs/punycode.js.svg)](https://gemnasium.com/bestiejs/punycode.js)
 
 A robust Punycode converter that fully complies to [RFC 3492](http://tools.ietf.org/html/rfc3492) and [RFC 5891](http://tools.ietf.org/html/rfc5891), and works on nearly all JavaScript platforms.
